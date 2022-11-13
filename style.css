@@ -8,7 +8,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url("./pictures/news_fon.jpg") bottom no-repeat; 
+    background: url("../pictures/news_fon.jpg") bottom no-repeat; 
     background-size: cover;  
 }
 h1 {
@@ -22,7 +22,7 @@ h1 {
     padding: 50px 0 32px;
 }
 
-.news:nth-child (odd) {
+.news:nth-child(odd) {
     background-color:coral;
 }
 
